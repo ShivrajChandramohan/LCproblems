@@ -6,7 +6,11 @@
         {
             Console.WriteLine("Welcome to Line Comparision Problems");
 
+            //Linebased.Calculatelength();
 
+            //Equality.Equal();
+
+            //Endpoint.Greaterorless();
         }
     }
 }
